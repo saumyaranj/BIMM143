@@ -4,6 +4,6 @@ This is a portfolio of my bioinformatics work.
 
 ## Contents 
 
--- Introduction to R
+-- Introduction to R 
 
---Data Visualization with ggplot2
+--Data Visualization with ggplot2 [source](https://github.com/saumyaranj/BIMM143/blob/main/Class5/Class5.pdf)
