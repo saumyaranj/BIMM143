@@ -8,7 +8,7 @@ This is a portfolio of my bioinformatics work.
 
 --Data Visualization with ggplot2 [pdf](https://github.com/saumyaranj/BIMM143/blob/main/Class5/Class5.pdf)
 
---Machine Learning [source]file:///C:/Users/saumy/AppData/Local/Temp/RtmpmoIfFc/preview-301810de2c2f.html
+--Machine Learning [pdf](https://github.com/saumyaranj/BIMM143/blob/main/machine%20learning.pdf)
 
 --Structural Bioinformatics [part1](https://github.com/saumyaranj/BIMM143/blob/main/Class11_%20Structural%20Bioinformatics.pdf)   
                             [part2](https://github.com/saumyaranj/BIMM143/blob/main/class12.pdf)
